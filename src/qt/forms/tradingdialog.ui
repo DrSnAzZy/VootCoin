@@ -54,7 +54,7 @@
     <enum>QTabWidget::North</enum>
    </property>
    <property name="currentIndex">
-    <number>1</number>
+    <number>6</number>
    </property>
    <widget class="QWidget" name="BuyTab">
     <attribute name="title">
@@ -2562,7 +2562,7 @@
       </font>
      </property>
      <property name="text">
-      <string>VOOT Pending: </string>
+      <string>VOOT Balance: </string>
      </property>
     </widget>
     <widget class="QLabel" name="label_12">
@@ -2613,7 +2613,7 @@
       </font>
      </property>
      <property name="text">
-      <string>VOOT Pending: </string>
+      <string>VOOT Availiable: </string>
      </property>
     </widget>
     <widget class="QLabel" name="label_14">
